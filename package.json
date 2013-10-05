@@ -1,0 +1,48 @@
+{
+    "name" : "jfc",
+
+    "description": "Javascript File Combiner - is a simple utility to combine JavaScript files in one",
+
+    "version" : "0.1.0",
+
+    "homepage": "https://github.com/tkheyfets/jfc",
+
+    "bugs" : "https://github.com/tkheyfets/jfc/issues",
+
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/tkheyfets/jfc.git"
+    },
+
+    "licenses": [
+        {
+            "type": "MIT",
+            "url": "https://github.com/tkheyfets/jfc/blob/master/LICENSE"
+        }
+    ],
+
+    "main" : "lib/jfc",
+
+    "engines" : {
+        "node" : ">=0.10.6"
+    },
+    "author" : {
+        "name" : "Timur Kheyfets",
+        "email": "tk@ai1.co",
+        "url": "http://nicesets.com"
+    },
+
+    "private": false,
+
+    "devDependencies" : {},
+
+    "dependencies" : {},
+
+    "keywords": [],
+
+    "preferGlobal": "true",
+
+    "bin": {
+        "jfc" : "lib/jfc.js"
+    }
+}
