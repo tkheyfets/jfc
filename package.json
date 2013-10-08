@@ -1,9 +1,9 @@
 {
     "name" : "jfc",
 
-    "description": "Javascript File Combiner - is a simple utility to combine JavaScript files in one",
+    "description": "Javascript Files Combiner - is a simple utility to combine JavaScript files in one",
 
-    "version" : "0.1.0",
+    "version" : "0.2.0",
 
     "homepage": "https://github.com/tkheyfets/jfc",
 
@@ -43,6 +43,6 @@
     "preferGlobal": "true",
 
     "bin": {
-        "jfc" : "lib/jfc.js"
+        "jfc" : "lib/bin/terminal.js"
     }
 }
