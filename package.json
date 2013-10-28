@@ -3,9 +3,11 @@
 
     "description": "Javascript Files Combiner - is a simple utility to combine JavaScript files in one",
 
-    "version" : "0.2.1",
+    "version" : "0.3.2",
 
     "homepage": "https://github.com/tkheyfets/jfc",
+
+    "keywords" : ["Application Assembly", "Modularity", "Concat", "Merge", "Combine"],
 
     "bugs" : "https://github.com/tkheyfets/jfc/issues",
 
@@ -37,10 +39,6 @@
     "devDependencies" : {},
 
     "dependencies" : {},
-
-    "keywords": [],
-
-    "preferGlobal": "true",
 
     "bin": {
         "jfc" : "lib/bin/terminal.js"
