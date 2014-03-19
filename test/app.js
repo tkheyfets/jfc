@@ -1,4 +1,4 @@
 (function(w){
-    //@import module1/index
-    //@import module2/index
+    //@import module1
+    //@import module2
 }).call(this, window);

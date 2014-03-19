@@ -1,0 +1,17 @@
+{
+    "curly"     : true,
+    "bitwise"   : true,
+    "eqeqeq"    : true,
+    "undef"     : true,
+    "multistr"  : true,
+    "strict"    : true,
+    "maxlen"    : 99,
+    "sub"       : true,
+    "quotmark"  : "single",
+    "plusplus"  : false,
+    "node"      : true,
+
+    "predef"    : [
+        "require"
+    ]
+}
