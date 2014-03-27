@@ -3,7 +3,7 @@
 
     "description": "Javascript Files Combiner - is a simple utility to combine JavaScript files in one",
 
-    "version" : "0.3.3",
+    "version" : "0.3.4",
 
     "homepage": "https://github.com/tkheyfets/jfc",
 
@@ -30,8 +30,8 @@
     },
     "author" : {
         "name" : "Timur Kheyfets",
-        "email": "tk@ai1.co",
-        "url": "http://nicesets.com"
+        "email": "to@timur.io",
+        "url": "http://timur.io"
     },
 
     "private": false,

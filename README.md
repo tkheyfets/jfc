@@ -95,6 +95,8 @@ jfc('~/dev/app', script.js);
 
 Release Notes
 -------------
+* 0.3.4 - fixes #1, #2
+* 0.3.3 - fixed error with require('jfc')
 * 0.3.2 - made jfc as collection of functions, added method *assemble* instead of *jfc*
 * 0.2.2 - added .npmignore, added documentation, removed globalPrefer from package.json, 
 * 0.2.1 - added path relative function, started using path module
